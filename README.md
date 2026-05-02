@@ -228,7 +228,7 @@ class FuturePirateKing:
 
 | Skill Tree | Status |
 |---|---|
-| Machine Learning | ⚡ Mastering |
+| Machine Learningg | ⚡ Mastering |
 | Deep Learning | ⚡ Mastering |
 | Computer Vision | ⚡ Advanced |
 | NLP | ⚡ Advanced |
